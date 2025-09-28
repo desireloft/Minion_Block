@@ -1,8 +1,14 @@
 # Minion Block Assembly
 
+![assembly](media/minion_assy.png)
+
 ## Overview
 
 This repository showcases a Minion-themed block assembly designed in **SolidWorks** to demonstrate my expertise in CAD modeling, configuration management, and technical documentation. The project features a modular Minion assembly built from block components with multiple configurations, a wheel-hub eye assembly, technical drawings, and STEP files for interoperability. The design leverages SolidWorks configuration tables to create various block sizes and shapes, optimized for manufacturing and prototyping (e.g., 3D printing), highlighting skills in efficient parametric design and assembly modeling.
+
+## Demo Video
+
+[Click here to view the Minion Block Assembly video in a new tab](https://desireloft.github.io/Minion_Block/minion.html)
 
 ## Project Details
 
